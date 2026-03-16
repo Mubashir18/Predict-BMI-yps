@@ -12,7 +12,7 @@ HSE University
 
 * analysis.ipynb: The main Jupyter Notebook containing the data preprocessing, exploratory data analysis (EDA), and regression modeling (OLS and Ridge Regression) in Python.
 * YPS.csv: The Young People Survey dataset used for the analysis.
-* report.tex: The comprehensive final report formatted in LaTeX, detailing the research question, methodology, findings, and conclusion.
+* report: The comprehensive final report, detailing the research question, methodology, findings, and conclusion.
 
 ## Overview
 
